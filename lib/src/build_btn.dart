@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:input_quantity/src/constant.dart';
 import '../input_quantity.dart';
 

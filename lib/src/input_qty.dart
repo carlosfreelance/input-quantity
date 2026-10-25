@@ -3,7 +3,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 import 'package:input_quantity/src/floating_point.dart';
 import 'package:input_quantity/src/constant.dart';
